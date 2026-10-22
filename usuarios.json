@@ -1,0 +1,61 @@
+[
+    {
+        "codigo": "U77001",
+        "nombre": "Carlos Mendoza Ruiz",
+        "tipo": "estudiante",
+        "carrera": "Ingeniería de Sistemas",
+        "contraseña": "Car123"
+    },
+    {
+        "codigo": "U77002",
+        "nombre": "María Fernanda Torres",
+        "tipo": "estudiante",
+        "carrera": "Ciberseguridad",
+        "contraseña": "Mar456"
+    },
+    {
+        "codigo": "U77003",
+        "nombre": "Andrés Castillo Vega",
+        "tipo": "estudiante",
+        "carrera": "Ingeniería de Software",
+        "contraseña": "And789"
+    },
+    {
+        "codigo": "U77004",
+        "nombre": "Lucía Fernández Rojas",
+        "tipo": "estudiante",
+        "carrera": "Administración de Empresas",
+        "contraseña": "Luc321"
+    },
+    {
+        "codigo": "U77005",
+        "nombre": "Diego Ramírez Soto",
+        "tipo": "estudiante",
+        "carrera": "Ingeniería de Redes y Comunicaciones",
+        "contraseña": "Die654"
+    },
+    {
+        "codigo": "P88001",
+        "nombre": "Roberto Salazar López",
+        "tipo": "profesor",
+        "maestria": "Ciencias de la Computación",
+        "curso": "Programación en Python",
+        "contraseña": "Rob111"
+    },
+    {
+        "codigo": "P88002",
+        "nombre": "Patricia Gómez Herrera",
+        "tipo": "profesor",
+        "maestria": "Ciberseguridad",
+        "curso": "Seguridad Informática",
+        "contraseña": "Pat222"
+    },
+    {
+        "codigo": "P88003",
+        "nombre": "Javier Morales Castro",
+        "tipo": "profesor",
+        "maestria": "Redes y Telecomunicaciones",
+        "curso": "Redes de Computadoras",
+        "contraseña": "Jav333"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "codigo": "LIB001",
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "año": 1967
+    },
+    {
+        "codigo": "LIB002",
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "año": 1949
+    },
+    {
+        "codigo": "LIB003",
+        "titulo": "El principito",
+        "autor": "Antoine de Saint-Exupéry",
+        "año": 1943
+    },
+    {
+        "codigo": "LIB004",
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "año": 1605
+    },
+    {
+        "codigo": "LIB005",
+        "titulo": "Crimen y castigo",
+        "autor": "Fiódor Dostoyevski",
+        "año": 1866
+    },
+    {
+        "codigo": "LIB006",
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "año": 1813
+    },
+    {
+        "codigo": "LIB007",
+        "titulo": "La metamorfosis",
+        "autor": "Franz Kafka",
+        "año": 1915
+    },
+    {
+        "codigo": "LIB008",
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "año": 1953
+    },
+    {
+        "codigo": "LIB009",
+        "titulo": "El Hobbit",
+        "autor": "J. R. R. Tolkien",
+        "año": 1937
+    },
+    {
+        "codigo": "LIB010",
+        "titulo": "Los miserables",
+        "autor": "Victor Hugo",
+        "año": 1862
+    }
+]
